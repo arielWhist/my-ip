@@ -8,7 +8,7 @@ image:
   repository: effi24/myip
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "myip"
+  tag: "myip-1"
 
 imagePullSecrets: []
 nameOverride: ""
